@@ -1,0 +1,13 @@
+.die {
+    width:100px;
+    height:100px;
+    background-color: white;
+    border: solid black 3px;
+    border-radius: .4em;
+    margin: .5em;
+    font-size: 3.75em;
+    text-align: center;
+
+    
+}
+
