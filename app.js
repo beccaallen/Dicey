@@ -31,7 +31,7 @@ class Die {
   }
 
   roll() {
-    this.value = Math.floor(Math.random() * 7);
+    this.value = (Math.floor(Math.random() * 6) + 1);
     this.div.textContent = this.value;
   }
 }
